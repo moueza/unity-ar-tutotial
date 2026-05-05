@@ -77,6 +77,10 @@ mono_crash.*
 *.unitypackage.meta
 *.app
 
+unity-ar-tutotial/BUILDS
+unity-ar-tutotial/Library
+
+
 # Crashlytics generated file
 crashlytics-build.properties
 
